@@ -1,0 +1,10 @@
+{
+    "user1":{
+        "username": "你的gpt账号",
+        "password": "你的gpt密码"
+    },
+    "user2":{
+        "username": "你的gpt账号",
+        "password": "你的gpt密码"
+    }
+}
